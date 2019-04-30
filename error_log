@@ -1,0 +1,2 @@
+[01-Apr-2019 02:44:35 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ocbuy/public_html/application/views/shipping.php on line 59
+[01-Apr-2019 02:44:44 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ocbuy/public_html/application/views/shipping.php on line 59
